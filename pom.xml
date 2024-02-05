@@ -62,6 +62,12 @@
     <artifactId>spring-expression</artifactId>
     <version>5.2.24.RELEASE</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/org.yaml/snakeyaml -->
+<dependency>
+    <groupId>org.yaml</groupId>
+    <artifactId>snakeyaml</artifactId>
+    <version>2.0</version>
+</dependency>
 
 	</dependencies>
 
