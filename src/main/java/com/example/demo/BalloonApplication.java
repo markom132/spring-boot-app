@@ -8,7 +8,7 @@ public class Calculator {
         return a * b;
     }
 
-    public int complexCalculation(int x, int y, int z) {
+    public int complexCalculation(int x, int y, int z, String s, String jg, int yfr) {
         int sum = add(x, y);
         int product = multiply(sum, z);
 
