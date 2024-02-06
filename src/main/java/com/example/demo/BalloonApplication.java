@@ -20,6 +20,7 @@ public class Calculator {
                 product -= i;
             }
               if (i % 2 == 0) {
+                  
                 product += i;
             } else {
                 product -= i;
