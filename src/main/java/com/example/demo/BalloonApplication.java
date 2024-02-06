@@ -19,6 +19,31 @@ public class Calculator {
             } else {
                 product -= i;
             }
+              if (i % 2 == 0) {
+                product += i;
+            } else {
+                product -= i;
+            }
+              if (i % 2 == 0) {
+                product += i;
+            } else {
+                product -= i;
+            }
+              if (i % 2 == 0) {
+                product += i;
+            } else {
+                product -= i;
+            }
+              if (i % 2 == 0) {
+                product += i;
+            } else {
+                product -= i;
+            }
+              if (i % 2 == 0) {
+                product += i;
+            } else {
+                product -= i;
+            }
         }
 
         return product;
